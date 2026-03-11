@@ -1,0 +1,6 @@
+# Ignora a pasta de bibliotecas do Composer
+vendor/
+
+# Ignora arquivos de log e sistema operacional
+.DS_Store
+error_log
